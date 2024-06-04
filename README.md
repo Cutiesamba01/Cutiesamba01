@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech, science, business, meeting new people and building networks, surmounting challenges
 - 🌱 I’m currently learning Software engineering with ALX
 - 💞️ I’m looking to collaborate on learning the concepts of SE while also growing in the field
-- 📫 How to reach me via Discord @Cutiesamba
+- 📫 You can reach me via Discord @Cutiesamba
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I embody the phrase "it's not by body size"
 
